@@ -1,3 +1,5 @@
+--enable-shared
+--enable-static
 --with-libtiff=yes
 --with-png=yes
 --with-spatialite=yes

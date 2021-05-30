@@ -1,17 +1,14 @@
 ld-linux-x86-64.so.2
-libHalf.so.24
-libIex-2_3.so.24
-libIlmImf-2_3.so.24
 libSFCGAL.so.1
 libc.so.6
 libcrypto.so.1.1
+libcurl.so.4
 libdl.so.2
 libexpat.so.1
-libgcc_s.so.1
 libgeos_c.so.1
 libgeotiff.so.5
 libgif.so.7
-libhdf5.so.103
+libhdf5.so.200
 libjpeg.so.62
 libjson-c.so.4
 libm.so.6
@@ -28,7 +25,6 @@ libspatialite.so.7
 libsqlite3.so.0
 libstdc++.so.6
 libtiff.so.5
-libwebp.so.7
 libxerces-c-3.2.so
 libxml2.so.2
 libz.so.1

@@ -3,3 +3,9 @@
 poppler
 sqlite3
 spatialite
+OpenEXR
+libpq
+libxml-2.0
+poppler
+spatialite
+sqlite3
