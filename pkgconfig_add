@@ -1,11 +1,7 @@
 # This file contains additional pkgconfig build requirements that did
 # not get picked up automatically. One name per line, no whitespace.
-poppler
-sqlite3
-spatialite
-OpenEXR
 libpq
 libxml-2.0
-poppler
-spatialite
 sqlite3
+poppler
+OpenEXR

@@ -1,5 +1,3 @@
-# This file contains additional build requirements that did not get
-# picked up automatically. One name per line, no whitespace.
 apache-ant
 automake
 automake-dev
@@ -24,7 +22,7 @@ glibc-staticdev
 hdf5
 hdf5-dev
 hdf5-lib
-hdf5-openmpi
+hdf5-bin
 hdf5-staticdev
 json-c-dev
 libedit
@@ -39,7 +37,6 @@ libstdc++
 libxml2-dev
 libxml2-staticdev
 m4
-modules
 ncurses-dev
 ocl-icd-dev
 openmpi

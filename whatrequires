@@ -1,2 +1,12 @@
 # This file contains recursive sources that require this package
+Cura
+ceph
+ceph-dev
+gdal-dev
 networkx
+nltk
+pyside2-setup
+pyside2-setup-dev
+pythran
+scikit-image
+scikit-learn

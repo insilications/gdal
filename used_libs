@@ -16,15 +16,13 @@ libodbc.so.2
 libodbcinst.so.2
 libpcre.so.1
 libpng16.so.16
-libpoppler.so.92
+libpoppler.so.111
 libpq.so.5
 libproj.so.19
 libpthread.so.0
 libqhull.so.7
-libspatialite.so.7
 libsqlite3.so.0
 libstdc++.so.6
 libtiff.so.5
 libxerces-c-3.2.so
 libxml2.so.2
-libz.so.1
